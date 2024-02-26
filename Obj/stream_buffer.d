@@ -1,8 +1,8 @@
 .\obj\stream_buffer.o: FreeRTOS\stream_buffer.c
-.\obj\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-.\obj\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\stream_buffer.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\stream_buffer.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\string.h
 .\obj\stream_buffer.o: .\FreeRTOS\include\FreeRTOS.h
-.\obj\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\stream_buffer.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stddef.h
 .\obj\stream_buffer.o: .\FreeRTOS\include\FreeRTOSConfig.h
 .\obj\stream_buffer.o: .\Public\system.h
 .\obj\stream_buffer.o: .\User\stm32f10x.h
@@ -34,7 +34,7 @@
 .\obj\stream_buffer.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\obj\stream_buffer.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\obj\stream_buffer.o: .\Public\usart.h
-.\obj\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\stream_buffer.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\obj\stream_buffer.o: .\FreeRTOS\include\projdefs.h
 .\obj\stream_buffer.o: .\FreeRTOS\include\portable.h
 .\obj\stream_buffer.o: .\FreeRTOS\include\deprecated_definitions.h

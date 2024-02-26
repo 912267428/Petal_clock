@@ -2,7 +2,7 @@
 .\obj\main.o: .\Public\system.h
 .\obj\main.o: .\User\stm32f10x.h
 .\obj\main.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\main.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\main.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\main.o: .\User\stm32f10x_conf.h
 .\obj\main.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -31,9 +31,9 @@
 .\obj\main.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\obj\main.o: .\Public\SysTick.h
 .\obj\main.o: .\Public\usart.h
-.\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\main.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\obj\main.o: .\FreeRTOS\include\FreeRTOS.h
-.\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\main.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stddef.h
 .\obj\main.o: .\FreeRTOS\include\FreeRTOSConfig.h
 .\obj\main.o: .\FreeRTOS\include\projdefs.h
 .\obj\main.o: .\FreeRTOS\include\portable.h

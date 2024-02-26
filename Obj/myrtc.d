@@ -1,7 +1,7 @@
 .\obj\myrtc.o: APP\RTC\MyRTC.c
 .\obj\myrtc.o: .\User\stm32f10x.h
 .\obj\myrtc.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\myrtc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\myrtc.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\myrtc.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\myrtc.o: .\User\stm32f10x_conf.h
 .\obj\myrtc.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -28,4 +28,4 @@
 .\obj\myrtc.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
 .\obj\myrtc.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\obj\myrtc.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
-.\obj\myrtc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\time.h
+.\obj\myrtc.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\time.h

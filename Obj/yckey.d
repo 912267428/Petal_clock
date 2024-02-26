@@ -3,7 +3,7 @@
 .\obj\yckey.o: .\Public\system.h
 .\obj\yckey.o: .\User\stm32f10x.h
 .\obj\yckey.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\yckey.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\yckey.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\yckey.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\yckey.o: .\User\stm32f10x_conf.h
 .\obj\yckey.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h

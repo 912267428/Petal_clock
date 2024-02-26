@@ -3,7 +3,7 @@
 .\obj\systick.o: Public\system.h
 .\obj\systick.o: .\User\stm32f10x.h
 .\obj\systick.o: .\Libraries\CMSIS\core_cm3.h
-.\obj\systick.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\systick.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\systick.o: .\Libraries\CMSIS\system_stm32f10x.h
 .\obj\systick.o: .\User\stm32f10x_conf.h
 .\obj\systick.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
@@ -31,10 +31,10 @@
 .\obj\systick.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\obj\systick.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\obj\systick.o: .\FreeRTOS\include\FreeRTOS.h
-.\obj\systick.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\systick.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stddef.h
 .\obj\systick.o: .\FreeRTOS\include\FreeRTOSConfig.h
 .\obj\systick.o: .\Public\usart.h
-.\obj\systick.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\systick.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\obj\systick.o: .\FreeRTOS\include\projdefs.h
 .\obj\systick.o: .\FreeRTOS\include\portable.h
 .\obj\systick.o: .\FreeRTOS\include\deprecated_definitions.h

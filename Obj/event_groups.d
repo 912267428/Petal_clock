@@ -1,8 +1,8 @@
 .\obj\event_groups.o: FreeRTOS\event_groups.c
-.\obj\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\event_groups.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
 .\obj\event_groups.o: .\FreeRTOS\include\FreeRTOS.h
-.\obj\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-.\obj\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\event_groups.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\event_groups.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\event_groups.o: .\FreeRTOS\include\FreeRTOSConfig.h
 .\obj\event_groups.o: .\Public\system.h
 .\obj\event_groups.o: .\User\stm32f10x.h
@@ -34,7 +34,7 @@
 .\obj\event_groups.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\obj\event_groups.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\obj\event_groups.o: .\Public\usart.h
-.\obj\event_groups.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\event_groups.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\obj\event_groups.o: .\FreeRTOS\include\projdefs.h
 .\obj\event_groups.o: .\FreeRTOS\include\portable.h
 .\obj\event_groups.o: .\FreeRTOS\include\deprecated_definitions.h

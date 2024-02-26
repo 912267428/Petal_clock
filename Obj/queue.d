@@ -1,9 +1,9 @@
 .\obj\queue.o: FreeRTOS\queue.c
-.\obj\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
-.\obj\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\obj\queue.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\queue.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\string.h
 .\obj\queue.o: .\FreeRTOS\include\FreeRTOS.h
-.\obj\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
-.\obj\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\queue.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\queue.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdint.h
 .\obj\queue.o: .\FreeRTOS\include\FreeRTOSConfig.h
 .\obj\queue.o: .\Public\system.h
 .\obj\queue.o: .\User\stm32f10x.h
@@ -35,7 +35,7 @@
 .\obj\queue.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\obj\queue.o: .\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\obj\queue.o: .\Public\usart.h
-.\obj\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\queue.o: D:\Program Files(x86)\keil5\ARM\ARMCC\Bin\..\include\stdio.h
 .\obj\queue.o: .\FreeRTOS\include\projdefs.h
 .\obj\queue.o: .\FreeRTOS\include\portable.h
 .\obj\queue.o: .\FreeRTOS\include\deprecated_definitions.h
